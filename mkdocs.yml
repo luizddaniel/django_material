@@ -11,8 +11,8 @@ site_author: Luiz Fernando dos Santos Daniel
 site_url: https://luizddaniel.github.io/
 
 # Repository
-repo_name: luizddaniel/django_material_mkdocs
-repo_url: https://github.com/luizddaniel/django_material_mkdocs
+repo_name: luizddaniel/django_material
+repo_url: https://github.com/luizddaniel/django_material
 edit_uri: ""
 
 # Copyright
@@ -28,8 +28,8 @@ theme:
     - 404.html
 
   # Don't include MkDocs' JavaScript
-  include_search_page: false
-  search_index_only: true
+  include_search_page: true
+  search_index_only: false
 
   # Default values, taken from mkdocs_theme.yml
   language: pt
@@ -53,8 +53,8 @@ extra:
     - type: github-alt
       link: https://github.com/luizddaniel
     - type: linkedin
-      link: https://linkedin.com/in/luizddaniel
-
+      link: https://linkedin.com/in/luiz-fernando-d-2a290747/ target="_blank"
+    
 # Extensions
 markdown_extensions:
   - markdown.extensions.admonition

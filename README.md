@@ -25,7 +25,7 @@ l.fernando.sd@gmail.com
 * `python manage.py runserver`
 * Open `http://localhost:8000/docs/`
 * Login with the created superuser.
-* Já era, só ser feliz!
+* Good Lucky!
 
 **Requirements**
 
