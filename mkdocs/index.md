@@ -1,6 +1,6 @@
 # Luiz Fernando dos Santos Daniel
 
-Documentação Pessoal de desenvolvimento.
+Apresentação Pessoal de desenvolvimento.
 
 ###### Sou apaixonado por tecnologia e busco inovar todos os dias meu conhecimento, assim gosto muito de aprender novas tecnologias.
 
