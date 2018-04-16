@@ -5,7 +5,7 @@ docs_dir: 'mkdocs'
 site_dir: 'docs/static/mkdocs_build'
 ## END: Django
 
-site_name: MkDocs Luiz
+site_name: Portifólio Luiz
 site_description: Documentação Pessoal de Luiz Fernando
 site_author: Luiz Fernando dos Santos Daniel
 site_url: https://luizddaniel.github.io/

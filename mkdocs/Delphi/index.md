@@ -1,11 +1,11 @@
 # Delphi
 
-##Projeto Aplicativo Fiscal
+##Projeto ERP
 
-### Geração de Arquivo Sped ICMS / Sped Contribuições
+### Software de Gestão de Empresas
 
-######Este projeto está sendo desenvolvido para a geração de arquivos fiscais como Sintegra para as empresas que se enquadram no regime do Simples Nacional, SPED ICMS e SPED Contribuições para as empresas do regime Lucro Presumido e Lucro Real.
+###### A participação desse projeto foi em criar as fucnionalidades CRUD de alguns módulos do software de gestão empresarial, como clientes, produtos e financeiro.
 
-######Este projeto visa atender toda a legislação brasileira vigente, no qual os arquivos são gerados pelo aplicativo seguindo o manual da receita. Sendo assim esse projeto está em constante mudança pois a legislação brasileira vem sofrendo alterações a cada semestre, tendo que estar sempre atualizando o aplicativo para atender as novas exigências.
+######Este projeto visa atender as necessidades diárias de um gestor de atacado e varejo
 
 ####Projeto privado.
